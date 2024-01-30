@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Triiixx
 - 👀 I’m interested in many things of which some are... automation, graphic design, games,and such
 - 🌱 I’m currently learning to code and get faster at it.
-- 💞️ I prefered to work alone which is why only now i created a git account, but now I'm slowly expanding my horizons.
-- 📫 You can't reach me at the moment but it will not remain the same forever.
+- 💞️ I prefered to work alone which is why it's only now that I created a git account, but now I'm slowly expanding my horizons.
+- 📫 See ya'll soon.
 - let's see where this path leads to and what this path has to offer. Cheers.
 
 <!---
